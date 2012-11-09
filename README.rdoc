@@ -1,9 +1,8 @@
 
 
-
 Used the RailsInstaller application to build a quick RoR application.
 App was deployed to EngineYard.
-The only change was to the index page (hae to start somewhere)
+The only change was to the index page (have to start somewhere)
 
 
 
